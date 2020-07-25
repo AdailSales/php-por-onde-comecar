@@ -37,3 +37,15 @@ Repositório criado com o objetivo de reunir e organizar os materiais **gratuito
 ## Documentação
 
 [Manual do PHP em língua portuguesa](https://www.php.net/manual/pt_BR/)
+
+
+
+## Sites que funcionam como guia de boas práticas para programadores PHP
+
+[PHP: Do jeito certo](http://br.phptherightway.com/)
+
+[PHP-FIG: Grupo de Interoperabilidade do Framework PHP](https://www.php-fig.org/)
+
+[Padrões de Projetos PHP (DesignPatternsPHP)](https://designpatternsphp.readthedocs.io/pt_BR/latest/README.html)
+
+[Packagist - O Repositório de Pacotes PHP](https://packagist.org/)
