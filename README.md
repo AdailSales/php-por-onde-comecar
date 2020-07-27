@@ -13,7 +13,7 @@ Repositório criado com o objetivo de reunir e organizar os materiais **gratuito
 
 [Curso de PHP com MySQL - Boson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrkPSrXiYgGXXkK4x245cvV)
 
-
+[PHP-CLI - Canal debxp linux](https://www.youtube.com/playlist?list=PLXoSGejyuQGoHbwSsePI3z_KUJbR1RmVE)
 
 ## Tutoriais
 
