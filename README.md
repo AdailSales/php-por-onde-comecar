@@ -1,9 +1,14 @@
 # index.php
 ![PHP](https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png)
 
-Repositório criado com o objetivo de reunir e organizar os materiais **gratuitos** sobre PHP que estou reunindo em meus estudos.
+Repositório criado com o objetivo de organizar os materiais **gratuitos** sobre PHP que estou reunindo em meus estudos.
 
 ## YouTube
+[PHP 8 - Curso Completo e do Jeito Certo - João Ribeiro](https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ)
+
+[PHP 8 Completo e do Jeito Certo - Intermediário e Avançado - João Ribeiro](https://www.youtube.com/playlist?list=PLXik_5Br-zO9Z8l3CE8zaIBkVWjHOboeL)
+
+[PHP Web Store - João Ribeiro](https://www.youtube.com/playlist?list=PLXik_5Br-zO-tsUy1lTPB8dnPGBu8n0Ee)
 
 [PHP 7 Básico - EspecializaTi](https://www.youtube.com/playlist?list=PLVSNL1PHDWvTwSPNOGj_GrXg41W6dgWam)
 
