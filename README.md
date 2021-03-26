@@ -1,6 +1,8 @@
 # index.php
+
 ![PHP](https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png)
 
+## Um guia básico de estudos
 Repositório criado com o objetivo de organizar os materiais **gratuitos** sobre PHP que estou reunindo em meus estudos.
 
 ## YouTube
