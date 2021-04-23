@@ -35,9 +35,11 @@ Repositório criado com o objetivo de organizar os materiais **gratuitos** sobre
 [Digital Innovation One](https://digitalinnovation.one/cursos/php)
 
 
-## Canais no Telegram
+## Canais e Grupos no Telegram
 
 [Livros de TI](https://t.me/booksti)
+
+[PHP Brasil](https://t.me/phpbrasil)
 
 
 
